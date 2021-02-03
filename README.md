@@ -3,8 +3,12 @@
 
  - 🔭 I’m currently working on <a href="https://ossi1801.github.io/"> React website </a>
  
+ - 🤖 I also maintain my discord bot regularly, though only a part of its source code is visible 
+ - ![](https://puu.sh/HdobO/2850ef806e.png)
+ 
  ## 📡 Tools i use daily 📡
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
