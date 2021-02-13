@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
- - 🔭 I’m currently working on <a href="https://ossi1801.github.io/"> React website </a>
+ - 🔭 I’m currently working on <a href="https://ossi1801.github.io/"> React website </a>, and a <a href="https://ossi1801.github.io/game">WebGL game</a>
+ - You can also checkout my Gists <a href="https://gist.github.com/ossi1801">here</a>
  
  - 🤖 I also maintain my discord bot regularly, though only a part of its source code is visible 
  - ![](https://puu.sh/HdobO/2850ef806e.png)
