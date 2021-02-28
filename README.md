@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+<div align='center'><h3>About me</h3> </div>
+My name is Ossi I do programming in my psare time, currently studying for bachelors degree in a University of applied sciences
 
  - 🔭 I’m currently working on <a href="https://ossi1801.github.io/"> React website </a>, and a <a href="https://ossi1801.github.io/game">WebGL game</a>
  - You can also checkout my Gists <a href="https://gist.github.com/ossi1801">here</a>
  
  - 🤖 I also maintain my discord bot regularly, though only a part of its source code is visible 
- - ![](https://puu.sh/HdobO/2850ef806e.png)
+ ![](https://puu.sh/HdobO/2850ef806e.png)
  
  ## 📡 Tools i use daily 📡
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
