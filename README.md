@@ -2,8 +2,7 @@
 
 <div align='center'><h3>About me</h3> </div>  
   
-  
-    
+     
   
 <p>My name is Ossi I do programming in my spare time, currently studying for bachelors degree in a University of applied sciences</p> 
 
