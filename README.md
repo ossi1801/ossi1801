@@ -12,11 +12,13 @@
  - 🤖 I also maintain my discord bot regularly, though only a part of its source code is visible \
  ![](https://puu.sh/HdobO/2850ef806e.png)
  
- ## 📡 Tools i use daily 📡
+ ## 📡 Tools i use on my projects 📡
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
