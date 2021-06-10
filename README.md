@@ -6,12 +6,23 @@
   
 <p>My name is Ossi I do programming in my spare time, currently studying for bachelors degree in a University of applied sciences</p> 
 
- - 🔭 I’m currently working on <a href="https://ossi1801.github.io/"> React website </a>, and a <a href="https://ossi1801.github.io/game">WebGL game</a>
- - You can also checkout my Gists <a href="https://gist.github.com/ossi1801">here</a>
- 
- - 🤖 I also maintain my discord bot regularly, though only a part of its source code is visible \
- ![](https://puu.sh/HdobO/2850ef806e.png)
- 
+ - 🔭 I’m currently working on:
+ <div align='center'><a href="https://ossi1801.github.io/"> React website </a></div>
+ <div align='center'>  <a href="https://ossi1801.github.io/game">WebGL game</a></div>
+ <div align='center'>  <a href="https://ossi1801.github.io/SpaceShooter-To-JS/">Space Game</a></div>
+
+---  
+  
+ <p>
+  <img width="300" align='left' src="https://github.com/ossi1801/readme-images/blob/main/bot.png?raw=true">
+</p>
+
+ ### Other stuff
+   - You can also checkout my Gists <a href="https://gist.github.com/ossi1801">here</a>
+   - 🤖 I also maintain my discord bot regularly, though only a part of its source code is visible
+   ..
+---
+
  ## 📡 Tools i use on my projects 📡
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
