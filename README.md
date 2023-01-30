@@ -1,14 +1,14 @@
-### Hi there 👋
+
 
 <div align='center'><h3>About me</h3> </div>  
   
-     
-  
-<p>My name is Ossi I do programming in my spare time, currently studying for bachelors degree in a University of applied sciences</p> 
-
- - 🔭 I’m currently working on:
- <div align='center'><a href="https://ossi1801.github.io/"> React website </a></div>
- <div align='center'>  <a href="https://ossi1801.github.io/game">WebGL game</a></div>
+  <br>
+   <div align='center'> 
+<p>ICT-engineer who likes to code in their spare time </p> 
+ </div>  
+ <div align='center'>   🔭 I’m currently working on:    </div> 
+ <div align='center'><a href="https://github.com/ossi1801/BonxoExe"> Bonxo pal </a></div>
+ <div align='center'>  <a href="https://github.com/ossi1801/C-Sharp-stuff">Object detection</a></div>
  <div align='center'>  <a href="https://ossi1801.github.io/SpaceShooter-To-JS/">Space Game</a></div>
 
 ---  
