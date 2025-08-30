@@ -6,10 +6,11 @@
    <div align='center'> 
 <p>ICT-engineer who likes to code in their spare time </p> 
  </div>  
- <div align='center'>   🔭 I’m currently working on:    </div> 
+ <div align='center'>   🔭 Ongoing project:    </div> 
+ <div align='center'><a href="https://github.com/AdvancedCoding/vass_merlin"> Merlin the virtual assistant </a></div>
  <div align='center'><a href="https://github.com/ossi1801/BonxoExe"> Bonxo pal </a></div>
  <div align='center'>  <a href="https://github.com/ossi1801/C-Sharp-stuff">Object detection</a></div>
- <div align='center'>  <a href="https://ossi1801.github.io/SpaceShooter-To-JS/">Space Game</a></div>
+<!-- <div align='center'>  <a href="https://ossi1801.github.io/SpaceShooter-To-JS/">Space Game</a></div> -->
 
 ---  
   
